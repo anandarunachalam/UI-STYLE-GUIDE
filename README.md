@@ -10,7 +10,7 @@ http://intellectualprogrammers.com/UI-STYLE-GUIDE/SG.html
 Perfect for **Responsive** check:
 
 DEMO:
-http://intellectualprogrammers.com/UI-STYLE-GUIDE/SG.html
+http://intellectualprogrammers.com/UI-STYLE-GUIDE/SG1.html
 
 ![npm version](https://raw.githubusercontent.com/anandarunachalam/UI-STYLE-GUIDE/master/images/responsive-small.png)
 ![npm version](https://raw.githubusercontent.com/anandarunachalam/UI-STYLE-GUIDE/master/images/responsive-medium.png)
