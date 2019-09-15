@@ -8,8 +8,8 @@ Perfect for **Theming** with copy paste approach:
 
 Perfect for **Responsive** check:
 
-![npm version](https://raw.githubusercontent.com/anandarunachalam/UI-STYLE-GUIDE/master/responsive-small.png)
-![npm version](https://raw.githubusercontent.com/anandarunachalam/UI-STYLE-GUIDE/master/responsive-medium.png)
-![npm version](https://raw.githubusercontent.com/anandarunachalam/UI-STYLE-GUIDE/master/responsive-large.png)
+![npm version](https://raw.githubusercontent.com/anandarunachalam/UI-STYLE-GUIDE/master/images/responsive-small.png)
+![npm version](https://raw.githubusercontent.com/anandarunachalam/UI-STYLE-GUIDE/master/images/responsive-medium.png)
+![npm version](https://raw.githubusercontent.com/anandarunachalam/UI-STYLE-GUIDE/master/images/responsive-large.png)
 
 
