@@ -19,7 +19,7 @@ http://intellectualprogrammers.com/UI-STYLE-GUIDE/SG1.html
 ### Creator
 |               | Anand Arunachalam          |
 | ------------- | ------------- |
-| ![Image of Anand](http://www.intellectualprogrammers.com/wp-content/uploads/2019/09/10931475_839867822721869_6280826949299568145_o-e1568558212130.jpg) | Feel free to follow me on [Linkedin](https://www.linkedin.com/in/anandintellectual)   
+| ![Image of Anand](http://www.intellectualprogrammers.com/wp-content/uploads/2019/09/10931475_839867822721869_6280826949299568145_o-e1568558212130.jpg) | Feel free to follow me on [Linkedin](https://www.linkedin.com/in/anandarunachalam)   
 
 ## License (MIT)
 
