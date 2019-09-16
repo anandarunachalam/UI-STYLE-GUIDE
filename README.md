@@ -24,7 +24,7 @@ http://intellectualprogrammers.com/UI-STYLE-GUIDE/SG1.html
 ## License (MIT)
 
 Copyright (c) 2019 Anand Arunachalam <[anand.intellectual@hotmail.com](mailto:anand.intellectual@hotmail.com)>
-[http://www.intellectualprogrammers.com](http://www.intellectualprogrammers.com)
+[http://www.intellectualprogrammers.com](http://www.intellectualprogrammers.com/aboutme)
 
 
 
